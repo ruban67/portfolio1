@@ -8,7 +8,7 @@ const Form = () => {
         <form>
             <label> name</label>
             <input type="text" ></input>
-            <label> e-mail</label>
+            <label> E-mail</label>
             <input type="text" ></input>
             <label> subject</label>
             <input type="text" ></input>

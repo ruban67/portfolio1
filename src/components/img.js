@@ -18,11 +18,11 @@ const img = () => {
         <h1>MERN developer</h1>
         \<div>
             <Link to="/project" className="btn">
-                projects
+                Projects
             </Link>
 
             <Link to="/contact" className="btn btn-light">
-                contact
+                Contact
             </Link>
         </div>
 
