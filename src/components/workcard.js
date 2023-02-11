@@ -12,7 +12,7 @@ const Workcard = () => {
             <div className="project-card">
               <img src={img1pro} alt=""/>
               <h2 className="project-title">API ECOMMERCE </h2>
-              <p>Implement the Makeup API using async/await with fetch</p>
+              <p>Implement the Makeup API using async/await with fetch..</p>
              <div className="pro-btns">
                 <NavLink to="https://famous-baklava-182993.netlify.app/" className="btn">view</NavLink>
                 

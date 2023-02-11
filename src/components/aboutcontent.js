@@ -9,7 +9,7 @@ const Aboutcontent = () => {
     <div className="about">
         <div className="left">
             <h1>who am i?</h1>
-            <p>iam a fullstack developer.i develop  secure  websites for my clients..</p>
+            <p>Iam a fullstack developer.I develop  secure  websites for my clients..</p>
             <Link to="/contact">
                 <button className="btn">contact</button>
             </Link>

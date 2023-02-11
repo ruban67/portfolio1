@@ -42,7 +42,7 @@ const Footer = () => {
 
     <div className="right">
         <h4>about us</h4>
-        <p>this is ruban.i enjoyed to create new projects and challenges.</p>
+        <p>This is Ruban.I enjoys to create new projects and challenges.</p>
         <div className="social">
             <FacebookIcon size={20} style={{color:"#fff",
              marginRight:"2rem"}}/>
