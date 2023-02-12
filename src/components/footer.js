@@ -19,7 +19,7 @@ const Footer = () => {
              marginRight:"2rem"}}/>
              <div>
                 <p>100,kpm thottam,T.R.pattinam,karaikal 609606</p>
-                <p>puducherry, india</p>
+                <p>Puducherry, India</p>
              </div>
         </div>
         <div className="call">
